@@ -21,3 +21,10 @@ class BillSerializer(serializers.ModelSerializer):
     class Meta:
         fields = '__all__'
         model = Bill
+
+
+class UploadSerializer(serializers.Serializer):
+    file_uploaded = serializers.FileField()
+
+    class Meta:
+        fields = ['file_uploaded']
