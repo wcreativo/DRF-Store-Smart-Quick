@@ -1,7 +1,7 @@
 # smart_quick
 
 
-DRF project making queries with raw SQL
+DRF project making queries with raw SQL and implementing docker-compose
 
 <h1>Install required packages</h1>
 
