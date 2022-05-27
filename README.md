@@ -1,5 +1,7 @@
 # smart_quick
-API DRF
+
+
+DRF project making queries with raw SQL
 
 <h1>Install required packages</h1>
 
